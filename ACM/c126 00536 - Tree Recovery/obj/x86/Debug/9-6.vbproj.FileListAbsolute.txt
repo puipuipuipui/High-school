@@ -1,0 +1,9 @@
+C:\Users\123\Desktop\9-6x\bin\Debug\9-6.exe
+C:\Users\123\Desktop\9-6x\bin\Debug\9-6.pdb
+C:\Users\123\Desktop\9-6x\bin\Debug\9-6.xml
+C:\Users\123\Desktop\9-6x\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\123\Desktop\9-6x\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\123\Desktop\9-6x\obj\x86\Debug\9-6.vbproj.GenerateResource.Cache
+C:\Users\123\Desktop\9-6x\obj\x86\Debug\9-6.exe
+C:\Users\123\Desktop\9-6x\obj\x86\Debug\9-6.xml
+C:\Users\123\Desktop\9-6x\obj\x86\Debug\9-6.pdb

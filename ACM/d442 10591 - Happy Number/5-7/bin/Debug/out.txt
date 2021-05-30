@@ -1,0 +1,16 @@
+Case #1: 7 is a Happy number.
+Case #2: 4 is an Unhappy number.
+Case #3: 13 is a Happy number.
+Case #4: 124 is an Unhappy number.
+Case #5: 2 is an Unhappy number.
+Case #6: 919 is an Unhappy number.
+Case #7: 50234 is an Unhappy number.
+Case #8: 296 is an Unhappy number.
+Case #9: 437 is an Unhappy number.
+Case #10: 999999999 is an Unhappy number.
+Case #11: 144 is an Unhappy number.
+Case #12: 658 is an Unhappy number.
+Case #13: 401 is an Unhappy number.
+Case #14: 653 is a Happy number.
+Case #15: 349 is an Unhappy number.
+Case #16: 279 is an Unhappy number.

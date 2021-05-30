@@ -1,0 +1,9 @@
+G:\其他練習2\5-5\5-5\bin\Debug\5-5.exe
+G:\其他練習2\5-5\5-5\bin\Debug\5-5.pdb
+G:\其他練習2\5-5\5-5\bin\Debug\5-5.xml
+G:\其他練習2\5-5\5-5\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\其他練習2\5-5\5-5\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\其他練習2\5-5\5-5\obj\x86\Debug\5-5.vbproj.GenerateResource.Cache
+G:\其他練習2\5-5\5-5\obj\x86\Debug\5-5.exe
+G:\其他練習2\5-5\5-5\obj\x86\Debug\5-5.xml
+G:\其他練習2\5-5\5-5\obj\x86\Debug\5-5.pdb

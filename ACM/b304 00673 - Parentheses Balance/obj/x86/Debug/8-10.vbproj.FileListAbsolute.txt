@@ -1,0 +1,9 @@
+G:\其他練習2\8-10\bin\Debug\8-10.exe
+G:\其他練習2\8-10\bin\Debug\8-10.pdb
+G:\其他練習2\8-10\bin\Debug\8-10.xml
+G:\其他練習2\8-10\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\其他練習2\8-10\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\其他練習2\8-10\obj\x86\Debug\8-10.vbproj.GenerateResource.Cache
+G:\其他練習2\8-10\obj\x86\Debug\8-10.exe
+G:\其他練習2\8-10\obj\x86\Debug\8-10.xml
+G:\其他練習2\8-10\obj\x86\Debug\8-10.pdb

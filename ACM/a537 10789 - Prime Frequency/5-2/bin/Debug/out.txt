@@ -1,0 +1,13 @@
+Case 1: C
+Case 2: AD
+Case 3: empty
+Case 4: 16k
+Case 5: 234789dklu
+Case 6: JKhijs
+Case 7: 37Hek
+Case 8: nv
+Case 9: empty
+Case 10: empty
+Case 11: empty
+Case 12: 0A
+Case 13: Ba
