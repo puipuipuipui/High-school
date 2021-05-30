@@ -1,0 +1,18 @@
+F:\動態規劃\5- 0-1背包\5- 0-1背包\bin\Debug\5- 0-1背包.exe
+F:\動態規劃\5- 0-1背包\5- 0-1背包\bin\Debug\5- 0-1背包.pdb
+F:\動態規劃\5- 0-1背包\5- 0-1背包\bin\Debug\5- 0-1背包.xml
+F:\動態規劃\5- 0-1背包\5- 0-1背包\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\動態規劃\5- 0-1背包\5- 0-1背包\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\動態規劃\5- 0-1背包\5- 0-1背包\obj\x86\Debug\5- 0-1背包.vbproj.GenerateResource.Cache
+F:\動態規劃\5- 0-1背包\5- 0-1背包\obj\x86\Debug\5- 0-1背包.exe
+F:\動態規劃\5- 0-1背包\5- 0-1背包\obj\x86\Debug\5- 0-1背包.xml
+F:\動態規劃\5- 0-1背包\5- 0-1背包\obj\x86\Debug\5- 0-1背包.pdb
+G:\程式\動態規劃\5- 0-1背包\5- 0-1背包\obj\x86\Debug\5- 0-1背包.exe
+G:\程式\動態規劃\5- 0-1背包\5- 0-1背包\obj\x86\Debug\5- 0-1背包.xml
+G:\程式\動態規劃\5- 0-1背包\5- 0-1背包\obj\x86\Debug\5- 0-1背包.pdb
+G:\程式\動態規劃\5- 0-1背包\5- 0-1背包\bin\Debug\5- 0-1背包.exe
+G:\程式\動態規劃\5- 0-1背包\5- 0-1背包\bin\Debug\5- 0-1背包.pdb
+G:\程式\動態規劃\5- 0-1背包\5- 0-1背包\bin\Debug\5- 0-1背包.xml
+G:\程式\動態規劃\5- 0-1背包\5- 0-1背包\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\程式\動態規劃\5- 0-1背包\5- 0-1背包\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\程式\動態規劃\5- 0-1背包\5- 0-1背包\obj\x86\Debug\5- 0-1背包.vbproj.GenerateResource.Cache

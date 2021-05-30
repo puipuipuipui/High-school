@@ -1,0 +1,16 @@
+G:\南台科大-來恩杯\2018-5\bin\Debug\2018-5.exe
+G:\南台科大-來恩杯\2018-5\bin\Debug\2018-5.pdb
+G:\南台科大-來恩杯\2018-5\bin\Debug\2018-5.xml
+G:\南台科大-來恩杯\2018-5\obj\x86\Debug\ConsoleApplication1.Resources.resources
+G:\南台科大-來恩杯\2018-5\obj\x86\Debug\2018-5.vbproj.GenerateResource.Cache
+G:\南台科大-來恩杯\2018-5\obj\x86\Debug\2018-5.exe
+G:\南台科大-來恩杯\2018-5\obj\x86\Debug\2018-5.xml
+G:\南台科大-來恩杯\2018-5\obj\x86\Debug\2018-5.pdb
+G:\備審資料\演算法\Karatsuba 遞迴乘法\obj\x86\Debug\2018-5.exe
+G:\備審資料\演算法\Karatsuba 遞迴乘法\obj\x86\Debug\2018-5.xml
+G:\備審資料\演算法\Karatsuba 遞迴乘法\obj\x86\Debug\2018-5.pdb
+G:\備審資料\演算法\Karatsuba 遞迴乘法\bin\Debug\2018-5.exe
+G:\備審資料\演算法\Karatsuba 遞迴乘法\bin\Debug\2018-5.pdb
+G:\備審資料\演算法\Karatsuba 遞迴乘法\bin\Debug\2018-5.xml
+G:\備審資料\演算法\Karatsuba 遞迴乘法\obj\x86\Debug\ConsoleApplication1.Resources.resources
+G:\備審資料\演算法\Karatsuba 遞迴乘法\obj\x86\Debug\2018-5.vbproj.GenerateResource.Cache

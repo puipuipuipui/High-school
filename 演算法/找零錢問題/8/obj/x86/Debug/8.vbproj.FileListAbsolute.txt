@@ -1,0 +1,12 @@
+F:\練習\動態規劃\8\8\bin\Debug\8.exe
+F:\練習\動態規劃\8\8\bin\Debug\8.pdb
+F:\練習\動態規劃\8\8\bin\Debug\8.xml
+F:\練習\動態規劃\8\8\obj\x86\Debug\WindowsApplication2.Form1.resources
+F:\練習\動態規劃\8\8\obj\x86\Debug\WindowsApplication2.Resources.resources
+F:\練習\動態規劃\8\8\obj\x86\Debug\8.vbproj.GenerateResource.Cache
+F:\練習\動態規劃\8\8\obj\x86\Debug\8.exe
+F:\練習\動態規劃\8\8\obj\x86\Debug\8.xml
+F:\練習\動態規劃\8\8\obj\x86\Debug\8.pdb
+G:\程式\動態規劃\8\8\obj\x86\Debug\8.exe
+G:\程式\動態規劃\8\8\obj\x86\Debug\8.xml
+G:\程式\動態規劃\8\8\obj\x86\Debug\8.pdb

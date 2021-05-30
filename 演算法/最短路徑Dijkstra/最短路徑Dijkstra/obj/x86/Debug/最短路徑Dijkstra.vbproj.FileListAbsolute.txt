@@ -1,0 +1,12 @@
+G:\te練習\最短路徑Dijkstra\最短路徑Dijkstra\bin\Debug\最短路徑Dijkstra.exe
+G:\te練習\最短路徑Dijkstra\最短路徑Dijkstra\bin\Debug\最短路徑Dijkstra.pdb
+G:\te練習\最短路徑Dijkstra\最短路徑Dijkstra\bin\Debug\最短路徑Dijkstra.xml
+G:\te練習\最短路徑Dijkstra\最短路徑Dijkstra\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\te練習\最短路徑Dijkstra\最短路徑Dijkstra\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\te練習\最短路徑Dijkstra\最短路徑Dijkstra\obj\x86\Debug\最短路徑Dijkstra.vbproj.GenerateResource.Cache
+G:\te練習\最短路徑Dijkstra\最短路徑Dijkstra\obj\x86\Debug\最短路徑Dijkstra.exe
+G:\te練習\最短路徑Dijkstra\最短路徑Dijkstra\obj\x86\Debug\最短路徑Dijkstra.xml
+G:\te練習\最短路徑Dijkstra\最短路徑Dijkstra\obj\x86\Debug\最短路徑Dijkstra.pdb
+H:\程式\te練習\最短路徑Dijkstra\最短路徑Dijkstra\obj\x86\Debug\最短路徑Dijkstra.exe
+H:\程式\te練習\最短路徑Dijkstra\最短路徑Dijkstra\obj\x86\Debug\最短路徑Dijkstra.xml
+H:\程式\te練習\最短路徑Dijkstra\最短路徑Dijkstra\obj\x86\Debug\最短路徑Dijkstra.pdb

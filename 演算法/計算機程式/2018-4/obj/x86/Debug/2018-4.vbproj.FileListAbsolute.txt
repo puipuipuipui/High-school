@@ -1,0 +1,8 @@
+G:\南台科大-來恩杯\2018-4\2018-4\bin\Debug\2018-4.exe
+G:\南台科大-來恩杯\2018-4\2018-4\bin\Debug\2018-4.pdb
+G:\南台科大-來恩杯\2018-4\2018-4\bin\Debug\2018-4.xml
+G:\南台科大-來恩杯\2018-4\2018-4\obj\x86\Debug\ConsoleApplication1.Resources.resources
+G:\南台科大-來恩杯\2018-4\2018-4\obj\x86\Debug\2018-4.vbproj.GenerateResource.Cache
+G:\南台科大-來恩杯\2018-4\2018-4\obj\x86\Debug\2018-4.exe
+G:\南台科大-來恩杯\2018-4\2018-4\obj\x86\Debug\2018-4.xml
+G:\南台科大-來恩杯\2018-4\2018-4\obj\x86\Debug\2018-4.pdb

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "完美數(1-100000的完美數列出)(因數總和是自己的2倍)", "完美數(1-100000的完美數列出)(因數總和是自己的2倍)\完美數(1-100000的完美數列出)(因數總和是自己的2倍).vbproj", "{DB52576B-6CAC-4E49-A9FB-428EFC6D7991}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB52576B-6CAC-4E49-A9FB-428EFC6D7991}.Debug|x86.ActiveCfg = Debug|x86
+		{DB52576B-6CAC-4E49-A9FB-428EFC6D7991}.Debug|x86.Build.0 = Debug|x86
+		{DB52576B-6CAC-4E49-A9FB-428EFC6D7991}.Release|x86.ActiveCfg = Release|x86
+		{DB52576B-6CAC-4E49-A9FB-428EFC6D7991}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

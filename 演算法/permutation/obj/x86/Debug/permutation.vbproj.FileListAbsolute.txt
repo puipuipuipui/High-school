@@ -1,0 +1,9 @@
+C:\Users\mathfan\Desktop\permutation\bin\Debug\permutation.exe
+C:\Users\mathfan\Desktop\permutation\bin\Debug\permutation.pdb
+C:\Users\mathfan\Desktop\permutation\bin\Debug\permutation.xml
+C:\Users\mathfan\Desktop\permutation\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\mathfan\Desktop\permutation\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\mathfan\Desktop\permutation\obj\x86\Debug\permutation.vbproj.GenerateResource.Cache
+C:\Users\mathfan\Desktop\permutation\obj\x86\Debug\permutation.exe
+C:\Users\mathfan\Desktop\permutation\obj\x86\Debug\permutation.xml
+C:\Users\mathfan\Desktop\permutation\obj\x86\Debug\permutation.pdb

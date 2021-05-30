@@ -1,0 +1,15 @@
+F:\練習\h-序列\h-序列\bin\Debug\h-序列.exe
+F:\練習\h-序列\h-序列\bin\Debug\h-序列.pdb
+F:\練習\h-序列\h-序列\bin\Debug\h-序列.xml
+F:\練習\h-序列\h-序列\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\練習\h-序列\h-序列\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\練習\h-序列\h-序列\obj\x86\Debug\h-序列.vbproj.GenerateResource.Cache
+F:\練習\h-序列\h-序列\obj\x86\Debug\h-序列.exe
+F:\練習\h-序列\h-序列\obj\x86\Debug\h-序列.xml
+F:\練習\h-序列\h-序列\obj\x86\Debug\h-序列.pdb
+G:\練習\h-序列\h-序列\obj\x86\Debug\h-序列.exe
+G:\練習\h-序列\h-序列\obj\x86\Debug\h-序列.xml
+G:\練習\h-序列\h-序列\obj\x86\Debug\h-序列.pdb
+F:\te練習\h-序列\h-序列\obj\x86\Debug\h-序列.exe
+F:\te練習\h-序列\h-序列\obj\x86\Debug\h-序列.xml
+F:\te練習\h-序列\h-序列\obj\x86\Debug\h-序列.pdb

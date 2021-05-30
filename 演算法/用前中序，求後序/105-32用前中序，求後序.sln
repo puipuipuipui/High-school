@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "105-32用前中序，求後序", "105-32用前中序，求後序\105-32用前中序，求後序.vbproj", "{61B47568-AF84-466E-ACF5-B49F535056C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61B47568-AF84-466E-ACF5-B49F535056C9}.Debug|x86.ActiveCfg = Debug|x86
+		{61B47568-AF84-466E-ACF5-B49F535056C9}.Debug|x86.Build.0 = Debug|x86
+		{61B47568-AF84-466E-ACF5-B49F535056C9}.Release|x86.ActiveCfg = Release|x86
+		{61B47568-AF84-466E-ACF5-B49F535056C9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
