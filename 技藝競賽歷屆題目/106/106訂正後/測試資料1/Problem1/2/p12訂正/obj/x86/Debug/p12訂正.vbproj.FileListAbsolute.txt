@@ -1,0 +1,9 @@
+C:\Users\123\Desktop\106 - 複製\測試資料1\Problem1\2\p12訂正\bin\Debug\p12訂正.exe
+C:\Users\123\Desktop\106 - 複製\測試資料1\Problem1\2\p12訂正\bin\Debug\p12訂正.pdb
+C:\Users\123\Desktop\106 - 複製\測試資料1\Problem1\2\p12訂正\bin\Debug\p12訂正.xml
+C:\Users\123\Desktop\106 - 複製\測試資料1\Problem1\2\p12訂正\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\123\Desktop\106 - 複製\測試資料1\Problem1\2\p12訂正\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\123\Desktop\106 - 複製\測試資料1\Problem1\2\p12訂正\obj\x86\Debug\p12訂正.vbproj.GenerateResource.Cache
+C:\Users\123\Desktop\106 - 複製\測試資料1\Problem1\2\p12訂正\obj\x86\Debug\p12訂正.exe
+C:\Users\123\Desktop\106 - 複製\測試資料1\Problem1\2\p12訂正\obj\x86\Debug\p12訂正.xml
+C:\Users\123\Desktop\106 - 複製\測試資料1\Problem1\2\p12訂正\obj\x86\Debug\p12訂正.pdb

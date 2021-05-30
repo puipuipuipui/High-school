@@ -1,0 +1,9 @@
+C:\Users\123\Desktop\107\術科檢測資料_1\Problem2\2\p22\bin\Debug\p22.exe
+C:\Users\123\Desktop\107\術科檢測資料_1\Problem2\2\p22\bin\Debug\p22.pdb
+C:\Users\123\Desktop\107\術科檢測資料_1\Problem2\2\p22\bin\Debug\p22.xml
+C:\Users\123\Desktop\107\術科檢測資料_1\Problem2\2\p22\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\123\Desktop\107\術科檢測資料_1\Problem2\2\p22\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\123\Desktop\107\術科檢測資料_1\Problem2\2\p22\obj\x86\Debug\p22.vbproj.GenerateResource.Cache
+C:\Users\123\Desktop\107\術科檢測資料_1\Problem2\2\p22\obj\x86\Debug\p22.exe
+C:\Users\123\Desktop\107\術科檢測資料_1\Problem2\2\p22\obj\x86\Debug\p22.xml
+C:\Users\123\Desktop\107\術科檢測資料_1\Problem2\2\p22\obj\x86\Debug\p22.pdb

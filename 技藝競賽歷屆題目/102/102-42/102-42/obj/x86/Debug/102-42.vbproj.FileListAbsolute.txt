@@ -1,0 +1,9 @@
+F:\正式-2\102\102-42\102-42\bin\Debug\102-42.exe
+F:\正式-2\102\102-42\102-42\bin\Debug\102-42.pdb
+F:\正式-2\102\102-42\102-42\bin\Debug\102-42.xml
+F:\正式-2\102\102-42\102-42\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\正式-2\102\102-42\102-42\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\正式-2\102\102-42\102-42\obj\x86\Debug\102-42.vbproj.GenerateResource.Cache
+F:\正式-2\102\102-42\102-42\obj\x86\Debug\102-42.exe
+F:\正式-2\102\102-42\102-42\obj\x86\Debug\102-42.xml
+F:\正式-2\102\102-42\102-42\obj\x86\Debug\102-42.pdb

@@ -1,0 +1,9 @@
+F:\正式-2\100\100-41\100-41\bin\Debug\100-41.exe
+F:\正式-2\100\100-41\100-41\bin\Debug\100-41.pdb
+F:\正式-2\100\100-41\100-41\bin\Debug\100-41.xml
+F:\正式-2\100\100-41\100-41\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\正式-2\100\100-41\100-41\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\正式-2\100\100-41\100-41\obj\x86\Debug\100-41.vbproj.GenerateResource.Cache
+F:\正式-2\100\100-41\100-41\obj\x86\Debug\100-41.exe
+F:\正式-2\100\100-41\100-41\obj\x86\Debug\100-41.xml
+F:\正式-2\100\100-41\100-41\obj\x86\Debug\100-41.pdb

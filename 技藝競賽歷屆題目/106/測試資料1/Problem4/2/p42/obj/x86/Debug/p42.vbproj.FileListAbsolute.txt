@@ -1,0 +1,9 @@
+G:\105-108\106\測試資料1\Problem4\2\p42\bin\Debug\p42.exe
+G:\105-108\106\測試資料1\Problem4\2\p42\bin\Debug\p42.pdb
+G:\105-108\106\測試資料1\Problem4\2\p42\bin\Debug\p42.xml
+G:\105-108\106\測試資料1\Problem4\2\p42\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\105-108\106\測試資料1\Problem4\2\p42\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\105-108\106\測試資料1\Problem4\2\p42\obj\x86\Debug\p42.vbproj.GenerateResource.Cache
+G:\105-108\106\測試資料1\Problem4\2\p42\obj\x86\Debug\p42.exe
+G:\105-108\106\測試資料1\Problem4\2\p42\obj\x86\Debug\p42.xml
+G:\105-108\106\測試資料1\Problem4\2\p42\obj\x86\Debug\p42.pdb

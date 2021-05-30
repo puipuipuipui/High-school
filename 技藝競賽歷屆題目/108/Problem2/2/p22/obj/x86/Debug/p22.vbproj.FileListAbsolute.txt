@@ -1,0 +1,9 @@
+C:\Users\acer\Desktop\108程式設計_模擬試題_術科\Problem2\2\p22\bin\Debug\p22.exe
+C:\Users\acer\Desktop\108程式設計_模擬試題_術科\Problem2\2\p22\bin\Debug\p22.pdb
+C:\Users\acer\Desktop\108程式設計_模擬試題_術科\Problem2\2\p22\bin\Debug\p22.xml
+C:\Users\acer\Desktop\108程式設計_模擬試題_術科\Problem2\2\p22\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\acer\Desktop\108程式設計_模擬試題_術科\Problem2\2\p22\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\acer\Desktop\108程式設計_模擬試題_術科\Problem2\2\p22\obj\x86\Debug\p22.vbproj.GenerateResource.Cache
+C:\Users\acer\Desktop\108程式設計_模擬試題_術科\Problem2\2\p22\obj\x86\Debug\p22.exe
+C:\Users\acer\Desktop\108程式設計_模擬試題_術科\Problem2\2\p22\obj\x86\Debug\p22.xml
+C:\Users\acer\Desktop\108程式設計_模擬試題_術科\Problem2\2\p22\obj\x86\Debug\p22.pdb
